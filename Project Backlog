@@ -1,0 +1,70 @@
+Living document on possible coding ideas
+
+--Sprint 1--
+Variables
+Input
+Output
+Arithmetic
+Program:
+  Unit Converter
+
+--Sprint 2--
+IF statements
+Comparison operators
+Validation
+Program:
+  Ohm's Law Calculator
+
+--Sprint 3--
+FOR loops
+Program:
+  Multiplication Tables
+
+
+--Sprint n--
+Statistics Library v1.0
+Functions:
+Mean
+Median
+Mode
+Range
+
+--Sprint n+1--
+Statistics Library v2.0
+--Add:--
+Variance
+Standard deviation
+Sample vs population
+Weighted average
+
+--Sprint n+3--
+Statistics Library v3.0
+--Add:--
+Linear regression
+Correlation coefficient
+Trend line
+Forecasting
+
+
+--Additional backlog ideas, needs refinement--
+Arrays
+Sorting
+Searching
+Subroutines
+Files
+Menus
+Libraries
+Data structures
+
+Optimization
+Prime Numbers
+Plate Calculator
+Unit Converter
+Prime Numbers
+Mortgage Calculator
+IPv4 Subnet Calculator
+Binary/Decimal Converter
+Retirement Planner
+Trigonometric Triangle Solver
+Statistics Package
+Inventory Tracker

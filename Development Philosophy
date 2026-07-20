@@ -1,0 +1,35 @@
+How do we think?  How do we want to progress?
+
+Project Renaissance is a workshop. A place where ideas get rebuilt, refined, and expanded over time. Not something with a corporate roadmap and quarterly KPIs.  
+
+We will embrace building a culture of craftsmanship rather than a "finish the project" culture.
+
+For every piece of code we write, we can ask questions like:
+
+-Can we make it simpler?
+-Can we make it easier to read?
+-Would another programmer understand this six months from now?
+-Is there a more elegant algorithm?
+-What assumptions did we make?
+-What happens if the user enters something unexpected?
+-Could we test this automatically?
+
+Each sprint could have four simple goals:
+
+1. Learn — a new programming concept.
+2. Build — one working program.
+3. Refine — improve something we already wrote.
+4. Reflect — what surprised us?
+
+That last one is often overlooked, but it's valuable. Sometimes the biggest lesson from a sprint isn't the feature we built—it's the misconception we corrected or the design choice we'd make differently next time.
+
+Our guiding principles for Project Renaissance. Not rigid rules—more like a compass:
+
+1. Understand before memorizing.
+2. Build before optimizing.
+3. Measure before assuming.
+4. Leave every program a little better than you found it.
+5. Curiosity beats completion.
+6. Document discoveries so future-you benefits.
+
+Those principles would apply whether we're writing a ten-line BASIC program on a vintage calculator or a few thousand lines of Python on a modern PC.

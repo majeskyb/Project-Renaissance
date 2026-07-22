@@ -1,3 +1,5 @@
-For converter with user input, I had to figure out user input error checking.
-Originally put it on the wrong line.  It would check for invalid input then continue to run.
-Had to put it directly after the input line and before any math
+--Converter with user input--
+    I had to figure out user input error checking.
+    Originally put it on the wrong line.  It would check for invalid input then continue to run.
+    Had to put it directly after the input line and before any math
+

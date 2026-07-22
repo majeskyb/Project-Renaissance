@@ -1,2 +1,4 @@
 # Project-Renaissance
-Project repository for learning BASIC, RPL, Python, Pascal and other obscure programming languages for fun
+Sprint 0
+
+My first BASIC programs.  Input, print, lightly touching on variables, goto.

@@ -1,1 +1,4 @@
-
+1. Line 735 checks if the weight is valid or a positive integer.  Evaluate variables to ensure it's checking the correct one
+2. Line 520 & 720- change the GOTO from 705 to 710 and 505 to 510
+3. Subroutine 1- Implement check to prevent partial plate values- INT?
+4. Add option to include non-standard weights and available plates to limit weight calculations

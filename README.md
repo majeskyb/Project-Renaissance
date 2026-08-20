@@ -7,6 +7,7 @@ Sprint 1- Weightlifting Calc
 Revision Ideas
 - Use a loop to calculate plates
 - Replace variables with Array
+- Add conditional output based on if certain plates are used
 - Post V1.0, start developing a TI-74 version
 
 Compatibility issues
